@@ -31,4 +31,4 @@ jobs:
     # 4. 執行自動化測試
     - name: Run pytest
       run: |
-        pytest test_api.py -v
+        pytest -v
