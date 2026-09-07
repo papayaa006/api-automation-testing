@@ -1,4 +1,4 @@
-![Tests](https://github.com/<papayaa006>/<api-automation-testing>/actions/workflows/test.yml/badge.svg)
+[![API Automated Tests](https://github.com/papayaa006/api-automation-testing/actions/workflows/test.yml/badge.svg)](https://github.com/papayaa006/api-automation-testing/actions/workflows/test.yml)
 # RESTful API Automation Test Suite
 
 基於 **Python + pytest + requests** 建構的自動化 API 測試腳本，針對公開 RESTful API（ReqRes）進行介面功能驗證、異常狀態攔截與多筆測資的資料驅動測試。
